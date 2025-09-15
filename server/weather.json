@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "/home/dorisa/.local/bin/uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "/home/dorisa/Public/AI/MCP/mcpcrashcourse/server/weather.py"
+      ]
+    }
+  }
+}
