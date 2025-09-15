@@ -14,10 +14,17 @@ About this app: **This is a basic example of a Model Context Protocol (MCP) serv
 - Run the Streamlit app: uv run server/client.py
 
 ![alt text](https://github.com/dorisashehi/mcp/blob/main/images/terminal1.png?raw=true)
+
 ![alt text](https://github.com/dorisashehi/mcp/blob/main/images/Terminal2.png?raw=true)
+
 ![alt text](https://github.com/dorisashehi/mcp/blob/main/images/cloudedesktop.png?raw=true)
+
 ![alt text](https://github.com/dorisashehi/mcp/blob/main/images/cloudedesktop1.png?raw=true)
+
 ![alt text](https://github.com/dorisashehi/mcp/blob/main/images/mcp_instructor.png?raw=true)
+
 ![alt text](https://github.com/dorisashehi/mcp/blob/main/images/mcp_instructor_config.png?raw=true)
+
 ![alt text](https://github.com/dorisashehi/mcp/blob/main/images/mcp_instructor_resources.png?raw=true)
+
 ![alt text](https://github.com/dorisashehi/mcp/blob/main/images/mcp_instructor_tools.png?raw=true)
